@@ -5,6 +5,7 @@ verticalement et diagonalement.
 Si lors d'une partie, tous les jetons sont joués sans qu'il y est d'alignement de jetons, la partie est déclaré nulle.
 
   1) Faire des recherches sur internet pour trouer de quoi faire des cases pour le jeu
-  2) tester chaque recherche faire des tests pour voir lesquelles je vais utiliser 
-  
+  2) Tester chaque recherche faire des tests pour voir lesquelles je vais utiliser 
+  3) Faire en sorte qu'l n'y ait pas colision à chaque qu'on place un jeton 
+  4) 
 
